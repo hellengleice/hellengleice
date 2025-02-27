@@ -1,4 +1,4 @@
-## Hi, I'm Hellen Gleice! 
+## Hi, I'm Hellen! 
 
 - 🌱 Estudante Full Stack Java
 
