@@ -1,11 +1,6 @@
 ## Hi, I'm Hellen! 
 
 - 🌱 Estudante Full Stack Java
-
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-%236DB33F?style=flat&logo=springboot)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
 <br>
 <div>
     <img src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=white" alt="logo java">
