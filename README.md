@@ -24,3 +24,9 @@
 </div>
 
 ###
+
+#### Vamos conectar, e colaborar!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://hellengleice.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellenjr)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hellengleice.97@gmail.com)
