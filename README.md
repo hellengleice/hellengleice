@@ -8,8 +8,8 @@
 <br/>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hellengleice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellengleice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hellengleice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellengleice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br/>
@@ -34,19 +34,19 @@
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/hellengleice/contabancaria">
-        <img src="https://img.shields.io/badge/-Conta%20Bancária-943be7?style=for-the-badge&logo=github&logoColor=white" alt="Conta Bancária"/>
+        <img src="https://img.shields.io/badge/-Conta%20Bancária-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="Conta Bancária"/>
       </a>
       <p>Projeto simula operações bancárias com Java e Spring Boot.</p>
     </td>
     <td align="center" width="300">
       <a href="https://github.com/hellengleice/Blog-Pessoal">
-        <img src="https://img.shields.io/badge/-Blog%20Pessoal-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Blog Pessoal"/>
+        <img src="https://img.shields.io/badge/-Blog%20Pessoal-BA55D3?style=for-the-badge&logo=github&logoColor=white" alt="Blog Pessoal"/>
       </a>
       <p>Aplicação de blog com CRUD usando Spring e MySQL.</p>
     </td>
     <td align="center" width="300">
       <a href="https://github.com/hellengleice/rh-queens">
-        <img src="https://img.shields.io/badge/-RH%20Queens-D14836?style=for-the-badge&logo=github&logoColor=white" alt="RH Queens"/>
+        <img src="https://img.shields.io/badge/-RH%20Queens-DDA0DD?style=for-the-badge&logo=github&logoColor=white" alt="RH Queens"/>
       </a>
       <p>Sistema de RH para gestão de colaboradoras.</p>
     </td>
@@ -63,13 +63,13 @@
 
 <p align="center">
   <a href="https://hellengleice.com">
-    <img src="https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-9370DB?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/hellenjr">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-BA55D3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hellengleice.97@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
