@@ -1,6 +1,8 @@
 ## Hi, I'm Hellen! 
 
-- 🌱 Estudante Full Stack Java
+- 💻 Estudante Full Stack Java
+- 🌱 Acompanhem minha evolução!
+  
 <br>
 <div>
     <img src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=white" alt="logo java">
@@ -15,8 +17,6 @@
 
 <div align="left">
 <a href="hellengleice.97@gmail.com" target="_blank">
-
-  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hellengleice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
