@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Hellen! 
+## 𝐇𝐢, 𝐈'𝐦 𝐇𝐞𝐥𝐥𝐞𝐧! 
 
 💻 Estudante Full Stack Java  
 🌱 Acompanhem minha evolução!
@@ -26,9 +26,38 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
+## 𝐑𝐞𝐩𝐨𝐬𝐢𝐭ó𝐫𝐢𝐨𝐬 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐨𝐬  
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/hellengleice/contabancaria">
+        <img src="https://img.shields.io/badge/-Conta%20Bancária-943be7?style=for-the-badge&logo=github&logoColor=white" alt="Conta Bancária"/>
+      </a>
+      <p>Projeto simula operações bancárias com Java e Spring Boot.</p>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/hellengleice/Blog-Pessoal">
+        <img src="https://img.shields.io/badge/-Blog%20Pessoal-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Blog Pessoal"/>
+      </a>
+      <p>Aplicação de blog com CRUD usando Spring e MySQL.</p>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/hellengleice/rh-queens">
+        <img src="https://img.shields.io/badge/-RH%20Queens-D14836?style=for-the-badge&logo=github&logoColor=white" alt="RH Queens"/>
+      </a>
+      <p>Sistema de RH para gestão de colaboradoras.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <br/>
 
-## 🔗 Vamos conectar, e colaborar!  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+## 🔗 𝐕𝐚𝐦𝐨𝐬 𝐜𝐨𝐧𝐞𝐜𝐭𝐚𝐫, 𝐞 𝐜𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐫!  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 
 <br/>
 
