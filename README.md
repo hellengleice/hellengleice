@@ -24,6 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=tailwind"> </a>
 </p>
 
 ## 𝐑𝐞𝐩𝐨𝐬𝐢𝐭ó𝐫𝐢𝐨𝐬 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐨𝐬  
@@ -71,3 +72,5 @@
 </p>
 
 </div>
+
+
