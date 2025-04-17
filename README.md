@@ -55,23 +55,3 @@
 </table>
 
 </div>
-
-## 🔗 𝐕𝐚𝐦𝐨𝐬 𝐜𝐨𝐧𝐞𝐜𝐭𝐚𝐫, 𝐞 𝐜𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐫!  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
-
-<br/>
-
-<p align="center">
-  <a href="https://hellengleice.com">
-    <img src="https://img.shields.io/badge/-Portfolio-9370DB?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hellenjr">
-    <img src="https://img.shields.io/badge/-LinkedIn-BA55D3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hellengleice.97@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-</div>
-
-
